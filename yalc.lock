@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "wallet-api-eip1193-provider": {
+      "version": "0.0.2",
+      "signature": "a4298d0bbe2129ac50f399507cb4e3c4",
+      "file": true
+    }
+  }
+}
